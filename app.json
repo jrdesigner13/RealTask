@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "realTask",
+    "slug": "realTask",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.realTask",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.realTask",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}

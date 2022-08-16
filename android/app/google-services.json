@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "246874722124",
+    "project_id": "realtask-7e015",
+    "storage_bucket": "realtask-7e015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246874722124:android:353f0d56ae915b00f149e9",
+        "android_client_info": {
+          "package_name": "com.realTask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246874722124-luh85q1fnta855uce4fvoumm7rudh1pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqb0fUp0QQE64sMs0SwJS7sThQE8XD2tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246874722124-luh85q1fnta855uce4fvoumm7rudh1pl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "246874722124-gii5jtl32h2e49eb1k3ikuq7lc07pehc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
